@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on React APP and Python Fast API, I also work with Postgre SQL<br>🌱 I’m currently learning React<br>💬 I'm Maxime, I'm a student in university<br>⚡ I Love programming and aviation 
+🔭 I’m currently working on a React app and a Python FastAPI backend. I also use PostgreSQL. <br/>
+🌱 I’m currently learning more about React.<br/>
+💬 Hi, I’m Maxime — a university student.<br/>
+⚡ I love programming and aviation!
 
 
 ## 🌐 Socials:
